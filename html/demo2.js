@@ -4,7 +4,7 @@ function startConnect() {
   clientID = "clientID-" + parseInt(Math.random() * 100);
 
   // Fetch the hostname/IP address and port number from the form
-  host = "35.224.169.222"; // change to ip address
+  host = "104.198.200.153"; // change to ip address
   port = "9001"; // change port
   usr = "admin"; // change username
   pwd = "admin"; // change pwd
